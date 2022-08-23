@@ -1,6 +1,6 @@
 # Pull Request Exercise
 
-We're going to learn how to make pull requests on GitHub. This will be how you request feedback going forward.
+We're going to learn how to make pull requests on GitHub. You can also use this workflow to request feedback.
 
 ## Contents <!-- omit in toc -->
 
